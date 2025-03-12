@@ -60,7 +60,6 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [DataJobs.com](https://datajobs.com/)
 - [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
-- [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 - [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
