@@ -1,6 +1,8 @@
 # Awesome Job Boards [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome niche job boards.
+A curated list of awesome job boards for developers, designers, and tech enthusiasts. Whether you're looking for remote work, freelance gigs, or full-time positions, this repository has got you covered! 🌟
+
+Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Table of Contents
 
