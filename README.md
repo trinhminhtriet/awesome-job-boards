@@ -6,6 +6,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Table of Contents
 
+- [General](#general)
 - [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 - [Big Data](#big-data)
 - [Blockchain](#blockchain)
@@ -37,6 +38,15 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
   - [Turkey](#turkey)
   - [UAE](#uae)
   - [Asia](#asia)
+
+## General
+
+- [LinkedIn](https://www.linkedin.com/)
+- [Indeed](https://www.indeed.com/)
+- [Glassdoor](https://www.glassdoor.com/)
+- [wellfound](https://wellfound.com/jobs)
+- [Levels.fyi](https://levels.fyi/jobs)
+- [X jobs](https://x.com/jobs)
 
 ## Artificial Intelligence (AI)
 
