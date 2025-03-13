@@ -195,14 +195,16 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## Remote
 
 - [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
-- [We Work Remotely](https://weworkremotely.com/)
-- [DailyRemote](https://dailyremote.com/)
-- [Werkington](https://www.werkington.com/)
-- [Just Remote](https://justremote.co/remote-jobs)
-- [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
-- [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
+- [Daily Remote](https://dailyremote.com) - Filter and find remote jobs for every role.
 - [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
+- [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
+- [Flexjobs](http://www.flexjobs.com/jobs/) - A service purely focusing on telecommuting, part-time, flexible jobs.
+- [Just Remote](https://justremote.co/remote-jobs)
+- [Remote Role](https://remoterole.com/) - A job board exclusively for remote and remote-friendly jobs.
+- [Remote some](https://remotesome.com/) - Full-time remote-first engineering jobs.
 - [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
+- [We Work Remotely](https://weworkremotely.com/)
+- [Werkington](https://www.werkington.com/)
 
 ### Aggregator
 
