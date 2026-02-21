@@ -75,6 +75,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 - [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 - [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
+- [SailOnChain](https://sailonchain.com) - Crypto & Web3 job board with 1,400+ live positions from top blockchain companies, global remote roles and salary intelligence
 
 ## Cloud
 
