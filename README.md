@@ -303,6 +303,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [jobgurus](https://ca.jobgurus.net/)
 - [betakit](https://betakit.com/jobs/) | Startup news site with a jobs board (Job board).
 - [Prospect](https://www.prospect.fyi/) | Career network built by-and-for the Canadian tech startup ecosystem (Job board).
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) | Free daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, and sciences (Job board).
 - [MaRS D - Work in Tech](https://www.marsdd.com/work-in-tech/community-job-board/) | Toronto's largest tech community hub, with links to other affiliated hubs in Canada (Job board).
 - [Workopolis](https://www.workopolis.com/en/) | Major job board and platform (Job board).
 - [Tech Ladies](https://www.hiretechladies.com/) | A worldwide community with 50,000 members offering a free job board, opportunities to learn, and career support for women in tech (Social network).
