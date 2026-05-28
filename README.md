@@ -51,11 +51,13 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## Artificial Intelligence (AI)
 
 - [AI Dev Jobs](https://aidevboard.com) - AI/ML developer jobs with REST API and MCP server for agents
+- [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
 - [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 - [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 - [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 - [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 - [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+- [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
 
 ## Big Data
 
@@ -128,6 +130,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [findwork.dev](https://findwork.dev/)
 - [Levels.fyi](https://www.levels.fyi/jobs)
+- [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (EM/Staff+ positions only, VP, Director, CTO)
 
 ### Clojure
 
@@ -206,6 +209,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
 - [We Work Remotely](https://weworkremotely.com/)
 - [Werkington](https://www.werkington.com/)
+- [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical workers including customer service, admin, and marketing roles.
 
 ### Aggregator
 
@@ -226,6 +230,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Tech
 
+- [daily.dev Recruiter](https://recruiter.daily.dev/) - Source and engage developers where they already spend time — on their personalized news feed
 - [Relocate.me](https://relocate.me/) - Verified relocation packages
 - [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 - [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
@@ -248,6 +253,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [DallasJobs](https://www.dallasjobs.io/)
 - [US Jobs](https://us.jobs/)
+- [USDevJobs](https://usdevjobs.com/) - Real time job board for US developers
 - [Careerjet](https://www.careerjet.com/)
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
@@ -301,6 +307,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 - [jobgurus](https://ca.jobgurus.net/)
 - [betakit](https://betakit.com/jobs/) | Startup news site with a jobs board (Job board).
 - [Prospect](https://www.prospect.fyi/) | Career network built by-and-for the Canadian tech startup ecosystem (Job board).
@@ -529,3 +536,16 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ### Kenya
 
 - [Hired jobs](https://www.hired.co.ke)
+
+
+## Niche Industry
+
+* [Creative Gig Jobs](https://creativegigjobs.com) - Freelance and gig jobs for designers, illustrators, photographers, and creative professionals
+* [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs — line cooks, sous chefs, pastry, FOH, and catering
+* [Event Crew Jobs](https://eventcrewjobs.com) - Production, crew, and staffing jobs for live events, festivals, and conferences
+* [Fitness Trainer Jobs](https://fitnesstrainerjobs.com) - Personal training, group fitness, and wellness coaching positions
+* [Music and Sound Jobs](https://musicandsoundjobs.com) - Music industry jobs — audio engineers, producers, session musicians, and touring crew
+* [Nightlife Employees](https://nightlifeemployees.com) - Bar, club, and nightlife industry jobs — bartenders, DJs, promoters, and security
+* [Tattoo Studio Jobs](https://tattoostudiojobs.com) - Tattoo artist, piercer, and studio positions at shops and conventions
+* [Wedding Vendor Jobs](https://weddingvendorjobs.com) - Jobs for wedding planners, photographers, florists, and event coordinators
+* [Wilderness Staff Jobs](https://wildernessstaffjobs.com) - Outdoor guide, park ranger, camp counselor, and adventure tourism positions
