@@ -128,6 +128,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [findwork.dev](https://findwork.dev/)
 - [Levels.fyi](https://www.levels.fyi/jobs)
+- [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (EM/Staff+ positions only, VP, Director, CTO)
 
 ### Clojure
 
