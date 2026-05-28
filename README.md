@@ -205,6 +205,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
 - [We Work Remotely](https://weworkremotely.com/)
 - [Werkington](https://www.werkington.com/)
+- [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical workers including customer service, admin, and marketing roles.
 
 ### Aggregator
 
