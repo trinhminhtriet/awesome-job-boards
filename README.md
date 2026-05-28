@@ -252,6 +252,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [DallasJobs](https://www.dallasjobs.io/)
 - [US Jobs](https://us.jobs/)
+- [USDevJobs](https://usdevjobs.com/) - Real time job board for US developers
 - [Careerjet](https://www.careerjet.com/)
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
