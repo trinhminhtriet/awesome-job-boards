@@ -306,6 +306,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Jobbank](https://www.jobbank.gc.ca/jobsearch/)
 - [Eluta](https://www.eluta.ca/)
 - [CareerBeacon](https://www.careerbeacon.com/)
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.
 - [jobgurus](https://ca.jobgurus.net/)
 - [betakit](https://betakit.com/jobs/) | Startup news site with a jobs board (Job board).
 - [Prospect](https://www.prospect.fyi/) | Career network built by-and-for the Canadian tech startup ecosystem (Job board).
