@@ -55,6 +55,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 - [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 - [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+- [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
 
 ## Big Data
 
