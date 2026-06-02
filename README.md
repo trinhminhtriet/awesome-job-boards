@@ -234,6 +234,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Relocate.me](https://relocate.me/) - Verified relocation packages
 - [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 - [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
+- [FoundRole](https://www.foundrole.com/) - AI job search with a Kanban tracker and career tools — free
 
 ## Writing
 
