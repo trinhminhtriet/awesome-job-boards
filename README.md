@@ -12,6 +12,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Blockchain](#blockchain)
 - [Database](#database)
 - [Design](#design)
+- [Embedded](#embedded)
 - [DevOps](#devops)
 - [eCommerce](#ecommerce)
 - [Finance](#finance)
@@ -98,6 +99,10 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 - [UX Jobs Board](https://www.uxjobsboard.com)
 - [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+
+## Embedded
+
+- [EmbeddedJobs](https://embedded.jobs) - Job board dedicated to embedded systems and firmware engineering roles
 
 ## DevOps
 
