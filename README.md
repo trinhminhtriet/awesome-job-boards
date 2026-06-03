@@ -59,6 +59,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 - [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 - [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
+- [warpjobs](https://warpjobs.com) - Daily-refreshed board of GPU/CUDA, ML-systems, inference & performance-engineering roles from AI-lab & infra companies; open-source scraper with RSS/JSON feeds
 
 ## Big Data
 
