@@ -69,6 +69,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 - [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
+- [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
 
 ## Blockchain
 
