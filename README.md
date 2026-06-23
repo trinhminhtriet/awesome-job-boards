@@ -136,6 +136,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ### Aggregator
 
 - [findwork.dev](https://findwork.dev/)
+- [freehire](https://github.com/strelov1/freehire) - Open-source IT job aggregator for tech roles; normalizes, deduplicates and AI-enriches vacancies from many sources
 - [Levels.fyi](https://www.levels.fyi/jobs)
 - [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (EM/Staff+ positions only, VP, Director, CTO)
 
