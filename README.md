@@ -489,6 +489,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [jober](https://www.jober.pl/) | Free job posting portal (Job board).
 - [KarierawFinansach](https://www.karierawfinansach.pl/) | Focused on finance, banking, insurance, and BPO/SSC sectors (Job board).
 - [Skillshot](https://www.skillshot.pl/) | Job offers in the gaming industry (Job board).
+- [SolidJobs](https://solid.jobs/) | IT job board with transparent salary ranges (Job board).
 
 ### Portugal
 
