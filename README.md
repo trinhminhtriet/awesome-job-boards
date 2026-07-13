@@ -206,6 +206,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Remote
 
+- [Meridian](https://meridianremote.com/) - Remote tech jobs matched to your timezone for US, LATAM, and EU; aggregated and deduplicated from top boards and ATS feeds
 - [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 - [Daily Remote](https://dailyremote.com) - Filter and find remote jobs for every role.
 - [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
