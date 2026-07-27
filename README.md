@@ -506,6 +506,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [WeJob.ch](https://WeJob.ch/)
 - [Jobwinner](https://jobwinner.ch/en/)
 - [JobScout24](https://www.jobscout24.ch/en)
+- [SwissAIJob](https://swissaijob.ch/)
 
 ### Europe_Other
 
