@@ -253,6 +253,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 - [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
+- [4DayJob](https://4dayjob.com/) - Job board for roles at companies running a 4-day work week, filterable by function and by country
 
 ## World
 
