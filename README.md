@@ -44,6 +44,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [LinkedIn](https://www.linkedin.com/)
 - [Indeed](https://www.indeed.com/)
+- [SideQuest Board](https://www.sidequestboard.app/) - Freelance gigs aggregated from public communities into one curated feed
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
