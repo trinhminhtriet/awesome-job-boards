@@ -71,6 +71,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 - [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 - [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
+- [RealAnalystJobs](https://realanalystjobs.com/) - Data, business and product analyst jobs read from company career pages, re-checked daily
 
 ## Blockchain
 
