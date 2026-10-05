@@ -360,7 +360,11 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ### Finland
 
 - [duunitori.fi](https://duunitori.fi/) | Career portal and job aggregator (Job board).
-- [Oikotie](https://tyopaikat.oikotie.fi/en/haku?sort_by=publication_time) | General job board (Job board).
+- [JobCrawls](https://www.jobcrawls.com/en) | Job aggregator for Finland, from employers' own career pages and Työmarkkinatori (Job aggregator).
+- [Jobly](https://www.jobly.fi/) | General job board, successor to Monster.fi (Job board).
+- [Kuntarekry](https://www.kuntarekry.fi/en/) | Municipal and public sector jobs (Job board).
+- [Työmarkkinatori](https://tyomarkkinatori.fi/en) | Official public employment service job portal, replaced te-palvelut.fi in 2024 (Job board).
+- [Work in Finland](https://www.workinfinland.com/en/) | Jobs for international applicants, all in English, run by Business Finland (Job board).
 
 ### France
 
