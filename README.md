@@ -244,6 +244,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [daily.dev Recruiter](https://recruiter.daily.dev/) - Source and engage developers where they already spend time — on their personalized news feed
 - [Relocate.me](https://relocate.me/) - Verified relocation packages
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters
 - [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 - [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 - [FoundRole](https://www.foundrole.com/) - AI job search with a Kanban tracker and career tools — free
