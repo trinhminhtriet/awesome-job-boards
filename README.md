@@ -83,6 +83,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 - [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 - [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
+- [JobsInCrypto](https://jobsincrypto.net) - Crypto jobs with no ghost jobs or fake recruiters: Verified roles from verified companies and Checked roles from 250+ companies' own career pages. Every candidate and company is reviewed by a person
 
 ## Cloud
 
