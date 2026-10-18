@@ -556,6 +556,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Niche Industry
 
+* [AI Trainer Jobs](https://aitrainer.jobs) - Remote AI training, data annotation, RLHF and AI evaluation jobs from 60+ platforms, updated hourly
 * [Creative Gig Jobs](https://creativegigjobs.com) - Freelance and gig jobs for designers, illustrators, photographers, and creative professionals
 * [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs — line cooks, sous chefs, pastry, FOH, and catering
 * [Event Crew Jobs](https://eventcrewjobs.com) - Production, crew, and staffing jobs for live events, festivals, and conferences
