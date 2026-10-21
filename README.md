@@ -141,6 +141,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [freehire](https://github.com/strelov1/freehire) - Open-source IT job aggregator for tech roles; normalizes, deduplicates and AI-enriches vacancies from many sources
 - [Levels.fyi](https://www.levels.fyi/jobs)
 - [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (EM/Staff+ positions only, VP, Director, CTO)
+- [jobs-ats-tracker](https://github.com/huynhtanan/jobs-ats-tracker) - Open-source Python scripts that pull job listings directly from 100 companies' Greenhouse + Ashby public APIs (OpenAI, Stripe, Anthropic, Cloudflare, Linear, Ramp, Notion, Cursor, Databricks, Figma... 12,221 open roles). Includes salary benchmarking, daily delta (SQLite seen-jobs cache) and ATS/seniority classification. Disclosure: I am the author; it is a pay-per-result Apify actor backing the scripts.
 
 ### Clojure
 
