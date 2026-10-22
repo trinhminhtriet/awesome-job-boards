@@ -232,6 +232,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [TheRemoteWork](https://theremotework.co/)
 - [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 - [OkJob](https://okjob.io/) - 4 day week job board
+- [RemoteHunt](https://remotehunt.app/jobs) - Remote jobs that can hire in your country, scored 0-100 against your resume.
 
 ## Startups
 
