@@ -61,6 +61,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 - [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
 - [warpjobs](https://warpjobs.com) - Daily-refreshed board of GPU/CUDA, ML-systems, inference & performance-engineering roles from AI-lab & infra companies; open-source scraper with RSS/JSON feeds
+- [AI Expat Jobs](https://aiexpatjobs.com) - AI, ML and data jobs in the UK and the Netherlands, only at employers on the official visa-sponsor registers. Updated daily
 
 ## Big Data
 
