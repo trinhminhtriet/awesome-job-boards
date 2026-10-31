@@ -77,7 +77,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Blockchain
 
-- [ChainJobs](https://chainjobs.io) - 2,650+ live crypto, web3 & blockchain jobs re-scraped daily from companies official ATS boards, with employer-published salary data
+- [ChainJobs](https://chainjobs.io) - Live crypto, web3 & blockchain jobs read daily from companies' own careers pages (plus human-reviewed free employer posts), employer-published salary data, free JSON API.
 - [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
 - [GMI Jobs](https://gmijobs.com/) - Crypto and Web3 jobs from 230+ companies, pulled from employers' official ATS boards, with salary and token-compensation data
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
