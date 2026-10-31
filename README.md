@@ -223,6 +223,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Werkington](https://www.werkington.com/)
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical workers including customer service, admin, and marketing roles.
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
+- [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
 
 ### Aggregator
 
