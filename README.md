@@ -55,6 +55,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [AI Dev Jobs](https://aidevboard.com) - AI/ML developer jobs with REST API and MCP server for agents
 - [Jobloo](https://jobloo.co/) - AI-powered job application platform that tailors resumes for each job description and auto-applies to Workday, Greenhouse, Lever, and LinkedIn Easy Apply.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+- [AI Gig Scout](https://aigigscout.com) - Free directory of remote AI training and data annotation gigs from Micro1, Mercor, SME Careers, Sovrano, Ethos, Sannotate and more, updated daily
 - [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 - [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 - [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
