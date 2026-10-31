@@ -287,6 +287,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
 
 ### Argentina
 
