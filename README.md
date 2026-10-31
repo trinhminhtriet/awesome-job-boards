@@ -194,6 +194,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Python Job Board](https://www.python.org/jobs/)
 - [Django Jobs](https://djangojobs.net/jobs/)
 - [Python Developer Jobs](https://pythonjob.xyz)
+- [Jobs In Python](https://jobsinpython.com) - Curated python jobs updated daily.
 
 ### Ruby
 
