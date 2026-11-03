@@ -44,23 +44,28 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [LinkedIn](https://www.linkedin.com/)
 - [Indeed](https://www.indeed.com/)
+- [SideQuest Board](https://www.sidequestboard.app/) - Freelance gigs aggregated from public communities into one curated feed
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
+- [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
 
 ## Artificial Intelligence (AI)
 
 - [AI Dev Jobs](https://aidevboard.com) - AI/ML developer jobs with REST API and MCP server for agents
 - [Jobloo](https://jobloo.co/) - AI-powered job application platform that tailors resumes for each job description and auto-applies to Workday, Greenhouse, Lever, and LinkedIn Easy Apply.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
+- [AI Gig Scout](https://aigigscout.com) - Free directory of remote AI training and data annotation gigs from Micro1, Mercor, SME Careers, Sovrano, Ethos, Sannotate and more, updated daily
 - [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 - [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 - [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 - [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 - [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+- [AI Work Central](https://aiworkcentral.com) - Remote AI training and evaluation roles from 22 platforms, read daily, with listed pay and country filters
 - [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
 - [warpjobs](https://warpjobs.com) - Daily-refreshed board of GPU/CUDA, ML-systems, inference & performance-engineering roles from AI-lab & infra companies; open-source scraper with RSS/JSON feeds
+- [First Look Jobs](https://firstlookjobs.com) - Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing; hourly contracts, $6-$400/hr
 
 ## Big Data
 
@@ -71,11 +76,13 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [DataScienceJobs](https://datasciencejobs.com/) - Discover the latest and greatest data science jobs
 - [AiJobsTracker](https://aijobs.18offers.com/) - Live aggregator of 400+ AI-first companies's job boards, updated daily
 - [FindADataJob](https://findadatajob.com/) - Global job board focused on data analyst roles.
+- [RealAnalystJobs](https://realanalystjobs.com/) - Data, business and product analyst jobs read from company career pages, re-checked daily
 
 ## Blockchain
 
-- [ChainJobs](https://chainjobs.io) - 2,650+ live crypto, web3 & blockchain jobs re-scraped daily from companies official ATS boards, with employer-published salary data
+- [ChainJobs](https://chainjobs.io) - Live crypto, web3 & blockchain jobs read daily from companies' own careers pages (plus human-reviewed free employer posts), employer-published salary data, free JSON API.
 - [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs
+- [GMI Jobs](https://gmijobs.com/) - Crypto and Web3 jobs from 230+ companies, pulled from employers' official ATS boards, with salary and token-compensation data
 - [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 - [Blockchain Works](https://blockchain.works-hub.com/) - Discover **the best** Blockchain opportunities and articles with **Blockchain Works**
 - [Web3 Jobs](https://web3.career) - Looking for a web3 job? Web3 Jobs has 8,387+ web3 remote and offline jobs as Web3 Developer, Smart Contract Developer, Solidity Developer and much more. Switch your career to Web3 and join the future!
@@ -83,6 +90,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [My Web3 Jobs](https://myweb3jobs.com) - Find or Post web3 Jobs Today! New web3 Blockchain, Developer, and Designer Jobs handpicked every week
 - [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 - [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
+- [CryptoJobsHQ](https://cryptojobshq.com) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically
 
 ## Cloud
 
@@ -141,6 +149,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [freehire](https://github.com/strelov1/freehire) - Open-source IT job aggregator for tech roles; normalizes, deduplicates and AI-enriches vacancies from many sources
 - [Levels.fyi](https://www.levels.fyi/jobs)
 - [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (EM/Staff+ positions only, VP, Director, CTO)
+- [jobs-ats-tracker](https://github.com/huynhtanan/jobs-ats-tracker) - Open-source Python scripts that pull job listings directly from 100 companies' Greenhouse + Ashby public APIs (OpenAI, Stripe, Anthropic, Cloudflare, Linear, Ramp, Notion, Cursor, Databricks, Figma... 12,221 open roles). Includes salary benchmarking, daily delta (SQLite seen-jobs cache) and ATS/seniority classification. Disclosure: I am the author; it is a pay-per-result Apify actor backing the scripts.
 
 ### Clojure
 
@@ -188,6 +197,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Python Job Board](https://www.python.org/jobs/)
 - [Django Jobs](https://djangojobs.net/jobs/)
 - [Python Developer Jobs](https://pythonjob.xyz)
+- [Jobs In Python](https://jobsinpython.com) - Curated python jobs updated daily.
 
 ### Ruby
 
@@ -212,6 +222,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 - [Daily Remote](https://dailyremote.com) - Filter and find remote jobs for every role.
 - [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
+- [DoableFromHome](https://doablefromhome.com) - Remote tech jobs checked for country hiring restrictions.
 - [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 - [Flexjobs](http://www.flexjobs.com/jobs/) - A service purely focusing on telecommuting, part-time, flexible jobs.
 - [Just Remote](https://justremote.co/remote-jobs)
@@ -222,6 +233,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Werkington](https://www.werkington.com/)
 - [Remote Job Assistant](https://remotejobassistant.com/) - Remote jobs for non-technical workers including customer service, admin, and marketing roles.
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
+- [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
 
 ### Aggregator
 
@@ -229,9 +241,12 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [remote | OK](https://remoteok.com/)
 - [whoishiring.io](https://whoishiring.io/)
 - [remote4me.com](https://remote4me.com/)
+- [Remoote](https://remoote.app/remote-working) - Remote roles sourced from employer hiring platforms, with country, skill, and experience filters; optional paid subscriptions.
 - [TheRemoteWork](https://theremotework.co/)
 - [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 - [OkJob](https://okjob.io/) - 4 day week job board
+- [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards
+- [HeyRole](https://heyrole.ai/) - Remote jobs with location, role and seniority filters, an AI job-search assistant, and links to original listings.
 - [Jobless](https://jobless.dev/jobs) - 1M+ jobs aggregated from company career pages and ATS platforms, refreshed continuously with stale listings pruned
 
 ## Startups
@@ -240,11 +255,13 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Startup Jobs](https://startup.jobs/)
 - [coolstartupjobs](https://www.coolstartupjobs.com) - Find jobs at growing startups
 - [Work in biotech](https://workinbiotech.com/) - Find a biotech startup job
+- [VCBacked](https://www.vcbacked.co/startup-jobs) - Jobs at startups that recently raised venture funding
 
 ## Tech
 
 - [daily.dev Recruiter](https://recruiter.daily.dev/) - Source and engage developers where they already spend time — on their personalized news feed
 - [Relocate.me](https://relocate.me/) - Verified relocation packages
+- [Jaabz](https://jaabz.com/) - Tech jobs with visa sponsorship, relocation, and remote filters
 - [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 - [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 - [FoundRole](https://www.foundrole.com/) - AI job search with a Kanban tracker and career tools — free
@@ -255,9 +272,11 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Various
 
+- [Autojob](https://autojob.org/jobs) - Job board with 20,000+ jobs and an auto-apply feature.
 - [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs
 - [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 - [4DayJob](https://4dayjob.com/) - Job board for roles at companies running a 4-day work week, filterable by function and by country
+- [Only Hiring](https://onlyhiring.hassandev.me/) - Reddit job posts where someone is hiring, with self-promotion and spam filtered out and a scam score on each job
 
 ## World
 
@@ -273,6 +292,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Nexxt](https://www.nexxt.com/)
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
+- [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
 
 ### Argentina
 
@@ -361,7 +381,11 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ### Finland
 
 - [duunitori.fi](https://duunitori.fi/) | Career portal and job aggregator (Job board).
-- [Oikotie](https://tyopaikat.oikotie.fi/en/haku?sort_by=publication_time) | General job board (Job board).
+- [JobCrawls](https://www.jobcrawls.com/en) | Job aggregator for Finland, from employers' own career pages and Työmarkkinatori (Job aggregator).
+- [Jobly](https://www.jobly.fi/) | General job board, successor to Monster.fi (Job board).
+- [Kuntarekry](https://www.kuntarekry.fi/en/) | Municipal and public sector jobs (Job board).
+- [Työmarkkinatori](https://tyomarkkinatori.fi/en) | Official public employment service job portal, replaced te-palvelut.fi in 2024 (Job board).
+- [Work in Finland](https://www.workinfinland.com/en/) | Jobs for international applicants, all in English, run by Business Finland (Job board).
 
 ### France
 
@@ -557,6 +581,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Niche Industry
 
+* [AI Trainer Jobs](https://aitrainer.jobs) - Remote AI training, data annotation, RLHF and AI evaluation jobs from 60+ platforms, updated hourly
 * [Creative Gig Jobs](https://creativegigjobs.com) - Freelance and gig jobs for designers, illustrators, photographers, and creative professionals
 * [Culinary Industry Jobs](https://culinaryindustryjobs.com) - Kitchen and restaurant jobs — line cooks, sous chefs, pastry, FOH, and catering
 * [Event Crew Jobs](https://eventcrewjobs.com) - Production, crew, and staffing jobs for live events, festivals, and conferences
