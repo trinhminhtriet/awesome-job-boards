@@ -247,6 +247,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [OkJob](https://okjob.io/) - 4 day week job board
 - [Aworkado](https://aworkado.co/) - Remote-only jobs aggregated daily from company ATS boards
 - [HeyRole](https://heyrole.ai/) - Remote jobs with location, role and seniority filters, an AI job-search assistant, and links to original listings.
+- [Jobless](https://jobless.dev/jobs) - 1M+ jobs aggregated from company career pages and ATS platforms, refreshed continuously with stale listings pruned
 
 ## Startups
 
