@@ -523,6 +523,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [GoldenLine](https://www.goldenline.pl/) | Local equivalent of LinkedIn, with job advertising features (Job board).
 - [jober](https://www.jober.pl/) | Free job posting portal (Job board).
 - [KarierawFinansach](https://www.karierawfinansach.pl/) | Focused on finance, banking, insurance, and BPO/SSC sectors (Job board).
+- [noexp.it](https://noexp.it/) | IT jobs that require no prior experience, gathered from many Polish job boards; site in Polish (Job board).
 - [Skillshot](https://www.skillshot.pl/) | Job offers in the gaming industry (Job board).
 - [SolidJobs](https://solid.jobs/) | IT job board with transparent salary ranges (Job board).
 
