@@ -93,6 +93,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 - [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 - [CryptoJobsHQ](https://cryptojobshq.com) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically
+- [chainjobs.app](https://chainjobs.app/) - Free Web3 and freelance job board: post jobs, offer services and chat directly, paid in crypto or bank transfer, 0% platform commission
 
 ## Cloud
 
