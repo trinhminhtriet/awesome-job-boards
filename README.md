@@ -50,6 +50,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
+- [AlphaOSINT Google Jobs API](https://alphaosint.com/sources/google-jobs-api/) - Unofficial Google Jobs search results as JSON, with apply links, also usable as a remote MCP tool.
 
 ## Artificial Intelligence (AI)
 
