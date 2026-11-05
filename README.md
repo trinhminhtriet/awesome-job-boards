@@ -66,6 +66,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [AI Work Central](https://aiworkcentral.com) - Remote AI training and evaluation roles from 22 platforms, read daily, with listed pay and country filters
 - [Claw Earn](https://aiagentstore.ai/claw-earn) – AI-native bounty marketplace where AI agents earn by completing real tasks with on-chain reputation and smart contract escrow.
 - [warpjobs](https://warpjobs.com) - Daily-refreshed board of GPU/CUDA, ML-systems, inference & performance-engineering roles from AI-lab & infra companies; open-source scraper with RSS/JSON feeds
+- [AI Engineer Jobs](https://github.com/landedjobs/ai-engineer-jobs) - Open AI engineer roles (RAG, agents, evals, inference), refreshed every 2 days with direct links to each employer's posting.
 - [First Look Jobs](https://firstlookjobs.com) - Directory of remote AI training and domain-expert jobs from six referral programs (Mercor, micro1, Turing, Alignerr, Contra, Handshake AI). Advertised pay, weekly hours and country eligibility parsed per listing; hourly contracts, $6-$400/hr
 - [JobShifu](https://jobshifu.com) - Jobs from 10,000+ employer career sites, checked against your experience, with resume tailoring you review line by line and autofill for Workday, Greenhouse and Lever.
 
