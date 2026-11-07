@@ -298,6 +298,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
 - [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
+- [ClockInToday](https://clockintoday.com/) - Free directory of US gig apps and jobs you can start without an interview, with the minimum age, background check and payout speed for each.
 
 ### Argentina
 
