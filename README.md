@@ -153,6 +153,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [LeadJobs.dev](https://leadjobs.dev) - Software Engineering Leadership Jobs Board (EM/Staff+ positions only, VP, Director, CTO)
 - [EntryLevel.Careers](https://entrylevel.careers/) - Entry level job aggregator
 - [jobs-ats-tracker](https://github.com/huynhtanan/jobs-ats-tracker) - Open-source Python scripts that pull job listings directly from 100 companies' Greenhouse + Ashby public APIs (OpenAI, Stripe, Anthropic, Cloudflare, Linear, Ramp, Notion, Cursor, Databricks, Figma... 12,221 open roles). Includes salary benchmarking, daily delta (SQLite seen-jobs cache) and ATS/seniority classification. Disclosure: I am the author; it is a pay-per-result Apify actor backing the scripts.
+- [ApplyChill](https://applychill.com) - Free job search engine for tech and remote jobs from career pages and job boards, deduplicated, with real posting dates
 
 
 ### Clojure
