@@ -70,7 +70,6 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [JobShifu](https://jobshifu.com) - Jobs from 10,000+ employer career sites, checked against your experience, with resume tailoring you review line by line and autofill for Workday, Greenhouse and Lever.
 - [CookLLM AI job board](https://cookllm.com/en/jobs/board) - Free board of 20,000+ open roles at 1,300+ AI companies, read from their own career pages every 6 hours. Filter by level, region, visa sponsorship and remote work; no sign-up.
 
-
 ## Big Data
 
 - [DataJobs.com](https://datajobs.com/)
