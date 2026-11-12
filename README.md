@@ -53,6 +53,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 ## Artificial Intelligence (AI)
 
+- [caio.pro](https://caio.pro/jobs.html) - AI and data leadership jobs, including Head of AI and Chief AI Officer roles; free to browse.
 - [AI Dev Jobs](https://aidevboard.com) - AI/ML developer jobs with REST API and MCP server for agents
 - [Jobloo](https://jobloo.co/) - AI-powered job application platform that tailors resumes for each job description and auto-applies to Workday, Greenhouse, Lever, and LinkedIn Easy Apply.
 - [Agentic Engineering Jobs](https://agentic-engineering-jobs.com) - Job board for engineers building agentic systems (RAG, AI agents, LLM-powered products, agent orchestration). Free to post, free to browse.
