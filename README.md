@@ -47,6 +47,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [SideQuest Board](https://www.sidequestboard.app/) - Freelance gigs aggregated from public communities into one curated feed
 - [Glassdoor](https://www.glassdoor.com/)
 - [wellfound](https://wellfound.com/jobs)
+- [Firecrawl Alexandria Jobs](https://alexandria.firecrawl.dev/categories/jobs?utm_source=trinhminhtriet-awesome-job-boards&utm_medium=integration) - Job-data API for AI agents: search open postings from Ashby, Greenhouse, Lever, Workday, Glassdoor, ZipRecruiter, Y Combinator and other providers through the Firecrawl API, MCP server or CLI. Needs a Firecrawl API key.
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
