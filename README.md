@@ -93,6 +93,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Woody3](https://www.woodyjobs.com) - Find your dream non-tech job in Web3
 - [Jobs In Blockchain](https://jobsinblockchain.com) - Discover latest Blockchain, Web3, Smart Contracts, Defi, NFT, Cryptocurrency related jobs
 - [CryptoJobsHQ](https://cryptojobshq.com) - Crypto and web3 jobs in 13 categories with salary data per company; every listing is checked daily and filled or dead jobs are removed automatically
+- [Maneki](https://maneki.work/) - Web3 job board aggregating open roles from top crypto & blockchain companies into one clean, recruiter-spam-free feed, with AI resume matching, salary data, and weekly job alerts.
 
 ## Cloud
 
