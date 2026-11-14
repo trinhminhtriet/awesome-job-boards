@@ -50,6 +50,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
+- [Jobiba](https://jobiba.com/) - Live jobs worldwide with salary pages built from pay listed in job ads, apps for ChatGPT and Claude, and a free jobs API. India: [jobiba.in](https://jobiba.in/).
 
 ## Artificial Intelligence (AI)
 
