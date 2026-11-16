@@ -282,6 +282,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [ClimateTechList](https://www.climatetechlist.com/) - Comprehensive aggregator of 30,000+ job openings from 1,000 climate tech/clean energy companies' job boards, updated daily
 - [4DayJob](https://4dayjob.com/) - Job board for roles at companies running a 4-day work week, filterable by function and by country
 - [Only Hiring](https://onlyhiring.hassandev.me/) - Reddit job posts where someone is hiring, with self-promotion and spam filtered out and a scam score on each job
+- [SpaceJobs.Now](https://spacejobs.now/) - Jobs and internships at space companies (launch, satellites, spacecraft), updated daily from their own careers sites.
 
 ## World
 
