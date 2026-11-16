@@ -41,6 +41,8 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
   - [Asia](#asia)
 
 ## General
+- [openradar](https://openradar.fun) - Open aggregator of job vacancies and freelance orders (boards, RSS, Telegram, ATS) with free API, RSS and MCP.
+
 
 - [LinkedIn](https://www.linkedin.com/)
 - [Indeed](https://www.indeed.com/)
