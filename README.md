@@ -562,6 +562,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [RemoteScout](https://remotescout.ch)
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
+- [FirstSeen](https://firstseen.eu/?utm_source=github&utm_medium=referral&utm_campaign=awesome-trinhminhtriet) | Tech jobs in the EU, EEA and Switzerland from 1,600+ employers' own job boards, dated the day each role was first seen
 
 ### Turkey
 
