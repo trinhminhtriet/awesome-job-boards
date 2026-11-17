@@ -562,6 +562,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [RemoteScout](https://remotescout.ch)
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
+- [NewLuxJob](https://newluxjob.com/en/jobs) | Jobs across Europe aggregated daily from public sources, by country and profession, with a visa sponsorship filter (Aggregator).
 
 ### Turkey
 
