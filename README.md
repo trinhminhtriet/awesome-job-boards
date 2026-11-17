@@ -117,6 +117,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ## Embedded
 
 - [EmbeddedJobs](https://embedded.jobs) - Job board dedicated to embedded systems and firmware engineering roles
+- [PLC Talent](https://plctalent.com/) - PLC, SCADA and industrial controls jobs, each linking to the employer's own application page
 
 ## DevOps
 
