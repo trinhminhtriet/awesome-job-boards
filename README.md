@@ -50,6 +50,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
+- [FirstHire](https://getfirsthire.com/) - Entry-level, new grad and internship jobs in India and the US, listed within minutes of posting
 
 ## Artificial Intelligence (AI)
 
