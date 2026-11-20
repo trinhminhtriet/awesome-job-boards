@@ -50,6 +50,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://x.com/jobs)
 - [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) - Open-source MCP server for AI agents: New job postings since any date or window (24h, 7d, 30d) from Ashby, Greenhouse, Lever and SmartRecruiters job boards. Needs your own Apify API token.
+- [Jobs Every Hour](https://jobseveryhour.com/) - Free job search over jobs read every hour from employers' own career pages; closed jobs removed, apply on the employer's page. No signup.
 
 ## Artificial Intelligence (AI)
 
