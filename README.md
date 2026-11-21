@@ -578,6 +578,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 ### Asia
 
 - [ITviec](https://itviec.com)
+- [Loker Dollar](https://lokerdollar.com) - Remote jobs paying in USD that accept applicants from Indonesia, in Indonesian and English.
 
 ### Kenya
 
