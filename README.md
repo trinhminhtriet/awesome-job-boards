@@ -239,6 +239,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
 - [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
 - [Covesight](https://covesight.com/) - Free remote job matching. Jobs are checked daily for country, timezone and language limits, so you only see the ones open to you. Web, iOS and Android.
+- [WorkinVirtual U.S. Nationwide Remote Jobs](https://workinvirtual.com/us-nationwide-remote-jobs/) - Browse remote roles labeled U.S. nationwide, with location details and application routes.
 
 ### Aggregator
 
