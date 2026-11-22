@@ -325,6 +325,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Der Standard](https://jobs.derstandard.at/) | Job board of Austria's leading quality newspaper (Job board).
 - [Karriere](https://www.karriere.at/) | Austria's largest career portal (Job board).
 - [hokify](https://hokify.at/) | Austrian startup focused on placing professionals in tourism, catering, craft, and commercial sectors (Marketplace).
+- [Jobs Without German](https://www.jobswithoutgerman.de/?utm_source=github-tmt&utm_medium=promo&utm_campaign=w46-wed) | Job adverts in English from employers in Austria, Germany and German-speaking Switzerland that don't ask for German, read daily from each employer's own careers page (Job aggregator).
 
 ### Belgium
 
