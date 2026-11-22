@@ -574,6 +574,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [Remote Jobs in Dubai](https://www.remotedxb.com)
 - [JobXDubai](https://jobxdubai.com)
+- [Techny](https://techny.dev/?ref=gh-trinhminhtriet) - Tech jobs in the UAE, Saudi Arabia and Egypt, read from company career pages every 3 hours.
 
 ### Asia
 
