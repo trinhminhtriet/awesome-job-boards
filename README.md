@@ -562,6 +562,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [RemoteScout](https://remotescout.ch)
 - [zuhausejobs.com](https://zuhausejobs.com) | Germany, Austria & Switzerland
 - [lovejob](https://en.lovejob.lt/)
+- [EuroJobs.ai](https://eurojobs.ai/) | IT jobs in the EU, EEA, UK and Switzerland from employers' own job boards
 
 ### Turkey
 
