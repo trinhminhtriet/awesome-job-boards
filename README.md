@@ -142,6 +142,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 
 - [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
 - [isecjobs.com](https://isecjobs.com/) - A fresh and lean InfoSec jobs board
+- [infosecjobs.io](https://infosecjobs.io) - Cybersecurity and AI jobs from about 1,500 employers' own job boards, with posted pay and the certifications each employer asks for.
 
 ## Programming
 
