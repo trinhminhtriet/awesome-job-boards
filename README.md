@@ -239,6 +239,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [Global Remote Hub](https://globalremotehub.com/) - Remote & relocation jobs requiring German, French, or Spanish. For bilingual candidates.
 - [AbroadStack](https://abroadstack.com/jobs) - Remote, visa-friendly and overseas tech jobs with market and skill filters and English/Chinese support.
 - [Covesight](https://covesight.com/) - Free remote job matching. Jobs are checked daily for country, timezone and language limits, so you only see the ones open to you. Web, iOS and Android.
+- [Remote Roles](https://remoteroles.so/) - Remote-only jobs in every field (software, data, product, marketing, sales, finance, HR), with pay shown up front.
 
 ### Aggregator
 
@@ -298,6 +299,7 @@ Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTIN
 - [National Labor Exchange](https://usnlx.com/)
 - [juju](https://www.juju.com/)
 - [CareJobs.Now](https://carejobs.now/) - Healthcare jobs across the US (nursing, allied health, physicians, techs), read daily from 258 hospitals' and health systems' own career sites, with posted pay.
+- [Physician Roles](https://physicianroles.com/) - US physician jobs by specialty and state, from hospitals, medical groups and recruiters, with pay shown up front.
 
 ### Argentina
 
